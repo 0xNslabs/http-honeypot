@@ -11,6 +11,9 @@ The Simple HTTP Honeypot Server is a cybersecurity tool designed to emulate a we
 - **Real-Time Monitoring**: Provides immediate insights into HTTP traffic for timely detection of suspicious activities.
 - **Educational Tool**: Excellent for learning about web security and network reconnaissance techniques.
 
+## Beta Version Notice
+- **Beta Version**: Please note that this script is currently in beta. It may not be fully compatible with all websites or web services. If you encounter issues or have suggestions for improvement, feel free to push a pull request. Contributions are greatly appreciated!
+
 ## Requirements
 - Python 3.x
 - Twisted Python library
